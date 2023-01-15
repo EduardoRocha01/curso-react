@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import HelloWord from './components/HelloWords';
+import List from './components/List';
+
 
 function App() {
   
   return (
     <div className="App">
-      
-      
-       <HelloWord/>
+        
+        <List/>
       
     </div>
   );
