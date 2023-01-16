@@ -8,9 +8,22 @@ code {
 }
 
 h1{
-  color: red;
-  
+  color: rgb(255, 60, 0);
+  width: 300px;
   margin: auto;
   background-color: white;
-  line-height: 100px
+  line-height: 100px;
+  text-align: center;
+  
+}
+
+p{
+  background-color: aqua;
+  color: rgb(4, 20, 20);
+}
+
+
+button{
+  background-color:aqua ;
+  color: blue;
 }
