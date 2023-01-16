@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Form from './components/Form';
+import Formulario from './components/Formulario';
 
 
 
@@ -8,10 +8,11 @@ function App() {
   
   return (   
     <div className="App">
-      <h1>ola</h1>
-      <Form/>
+       
+      
+      
      </div>
-  );
+  )
 }
 
 export default App;
