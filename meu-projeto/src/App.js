@@ -1,7 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import formularioDois from './components/formularioDois';
-import teste from './components/teste';
+import FormularioDois from './components/FormularioDois';
 
 
 
@@ -9,11 +8,13 @@ function App() {
   
   return (   
     <div className="App">
-       <h1>ola edu</h1>
 
-       <div>
-        <h1>moto</h1>
-        <formularioDois/></div>
+     <h1>ola</h1>
+     
+      <FormularioDois/>
+    
+      
+       
       
      </div>
   )
